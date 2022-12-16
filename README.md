@@ -10,4 +10,4 @@
 
 <hr>
 
-**1.1.** Você concorda em não difamar ou prejudicar a imagem da Siesta, Luc ou outro serviço da Empresa, você pode ser suspenso de usar o Luc por quaisquer motivo, que você não poderá recuperar dados caso sejam perdidos, e que você está de acordo com tudo que está nos termos de uso.
+**1.1.** Você concorda em não difamar ou prejudicar a imagem da **Siesta**, Luc ou outro serviço da Empresa, você pode ser suspenso de usar a **Siesta** por quaisquer motivo, que você não poderá recuperar dados caso sejam perdidos, e que você está de acordo com tudo que está nos termos de uso.
