@@ -6,7 +6,9 @@
 <hr>
 
   
-**1.0.** Concordando com os termos você assume responsabilidade por qualquer imagens/vídeos enviados para mim, caso você tente abusar de qualquer bug ou tentar usar qualquer bot ou trapação acarretará em você perder acesso a todas as minhas funcionalidades, nós coletamos as seguintes informações: ID, username, avatar, mensagens, mídias, etc... mas nenhuma dessas informações são distribuidas para terceiros.
+**1.0.** Ao utilizar os comandos de xxxx você concorda e assume a responsabilidade por qualquer imagens/vídeos enviados. Caso você tente abusar de qualquer bug ou tentar usar qualquer outra aplicação ou tente trapacear, acarretará em punições e você poderá perder os privilégios de utilizar todas as minhas funcionalidades.
+
+Nós coletamos as seguintes informações: Seu ID, nome de usuário, foto de perfil, mensagens e mídias. Todas as informações enviadas não serão repassadas para terceiros.
 
 <hr>
 
